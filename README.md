@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You can view this project in the browser with GitHub Pages: [https://thermodev.github.io/blog/](https://thermodev.github.io/blog/).
 
 ## Available Scripts
 
